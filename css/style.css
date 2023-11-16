@@ -352,7 +352,7 @@ section{
     box-shadow: var(--neon-box-shadow);
     border: 1px solid var(--hover-color);
     outline: 2px solid var(--bg-color);
-    z-index: 100;
+    z-index: 99;
     animation: morph 6s linear infinite;
 }
 
